@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/SmartChart" />
+  <setParameter name="DefaultConnection-Web.config Connection String" value="Data Source=(LocalDb)\v11.0;AttachDbFilename=|DataDirectory|\aspnet-Iteration1Working-20160211011555.mdf;Initial Catalog=aspnet-Iteration1Working-20160211011555;Integrated Security=True" />
+</parameters>
