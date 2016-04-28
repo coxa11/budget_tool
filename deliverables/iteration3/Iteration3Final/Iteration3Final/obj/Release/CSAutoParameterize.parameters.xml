@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\v11.0;AttachDbFilename=|DataDirectory|\aspnet-Iteration1Working-20160211011555.mdf;Initial Catalog=aspnet-Iteration1Working-20160211011555;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Administrator\\Desktop\\budget_tool\\budget_tool\\deliverables\\iteration3\\Iteration3Final\\Iteration3Final\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="SmartChartEntities-Web.config Connection String" description="SmartChartEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.Category.csdl|res://*/Models.Category.ssdl|res://*/Models.Category.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=localhost;initial catalog=SmartChart;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Administrator\\Desktop\\budget_tool\\budget_tool\\deliverables\\iteration3\\Iteration3Final\\Iteration3Final\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SmartChartEntities']/@connectionString" />
+  </parameter>
+</parameters>
